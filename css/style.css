@@ -1,0 +1,37 @@
+/*Header*/
+.header {
+
+}
+.logo-img img {
+	height: 100px;
+	display: inline-block;
+}
+.logo {
+	display: inline-block;
+	vertical-align: middle;
+}
+.nav {
+	display: inline-block;
+	vertical-align: middle;
+}
+.nav-li {
+	display: inline-block;
+	margin-right: 20px;
+}
+/* Section Box */
+.box-wraper1 {
+	background-image: url(../img/banner.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	width: 570px;
+	display: inline-block;
+}
+.box-wraper2 {
+	background-image: url(../img/banner.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	width: 570px;
+	display: inline-block;
+}
