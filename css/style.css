@@ -1,37 +1,48 @@
-/*Header*/
-.header {
-
-}
-.logo-img img {
-	height: 100px;
-	display: inline-block;
+body {
+	background-color: #56836F;
 }
 .logo {
-	display: inline-block;
-	vertical-align: middle;
+	float: right;
+	width: 200px;
+	margin: 32px 54px 55px 63.4px;
 }
-.nav {
-	display: inline-block;
-	vertical-align: middle;
+.nav-a {
+	float: right;
+	padding: 20px;
+	font-size: 48px;
+	color: white;
+	margin-top: 30px;
 }
-.nav-li {
-	display: inline-block;
-	margin-right: 20px;
+.clear {
+	clear: both;
 }
-/* Section Box */
-.box-wraper1 {
-	background-image: url(../img/banner.png);
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-position: center center;
-	width: 570px;
-	display: inline-block;
+/* Seciton */
+.pirveli {
+	width: 617px;
+	height: 356px;
+	float: left;
+	background-color: #FCEE21;
+	margin: 137px 18px 120px 112px;
 }
-.box-wraper2 {
-	background-image: url(../img/banner.png);
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-position: center center;
-	width: 570px;
-	display: inline-block;
+.meore {
+    width: 523px;
+    height: 356px;
+    float: left;
+    background-color:#FCEE21 ;
+    margin-top: 137px;
+
+}
+.img1 {
+	width: 151px;
+	float: right;
+	margin: 25px;
+}
+.img2 {
+	width: 151px;
+	float: left;
+	margin: 25px;
+}
+p {
+	padding: 7px;
+	font-size: 16px;
 }
